@@ -38,6 +38,6 @@ ruby stream_runner.rb
 
 Developed by [Jorge Gómez](https://github.com/jwaldimer) as part of a technical assessment.
 
-## 📝 License
+## License
 
 MIT — feel free to use and modify.
